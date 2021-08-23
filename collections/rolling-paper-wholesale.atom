@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://jerseywholesaleco.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://jerseywholesaleco.com/collections/rolling-paper-wholesale.atom"/>
+  <title>Jersey hookah Wholesale</title>
+  <updated>2020-02-25T18:36:01-05:00</updated>
+  <author>
+    <name>Jersey hookah Wholesale</name>
+  </author>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607929450634</id>
+    <published>2020-02-25T18:36:01-05:00</published>
+    <updated>2020-02-25T18:36:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/raw-unrefined-classic-1-25-1-1-4-size-cigarette-rolling-papers-box-24-packs"/>
+    <title>Raw Unrefined Classic 1.25 1 1/4 Size Cigarette Rolling Papers Box 24 Packs</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>Jersey hookah Wholesale Smoke Shop New Jersey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/Raw_Classic_1_1-4_Rolling_Papers_24_Booklets.jpg?v=1582673762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jersey hookah Wholesale Smoke Shop New Jersey<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Raw Unrefined Classic 1.25 1 1/4 Size Cigarette Rolling Papers Box 24 Packs</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607929450634</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>Raw-U-RP-C-24-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607929352330</id>
+    <published>2020-02-25T18:35:59-05:00</published>
+    <updated>2020-02-25T18:35:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/black-raw-classic-paper-wholesale-50-per-box-king-size-slim-paper"/>
+    <title>Black Raw Classic Paper Wholesale 50 Per Box King Size Slim Paper</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>Jersey hookah Wholesale Smoke Shop New Jersey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/wholesale-cigarette-papers-raw-paper-king-size-classic-50-black.jpg?v=1582673760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jersey hookah Wholesale Smoke Shop New Jersey<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            44.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Raw Classic Paper Wholesale 50 Per Box King Size Slim Paper</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607929352330</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.98</s:price>
+      <s:sku>Raw-C-KS-50-B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607929221258</id>
+    <published>2020-02-25T18:35:57-05:00</published>
+    <updated>2020-02-25T18:35:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/raw-classic-paper-wholesale-50-per-box-king-size-slim-paper"/>
+    <title>Raw Classic Paper Wholesale 50 Per Box King Size Slim Paper</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>Jersey hookah Wholesale Smoke Shop New Jersey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/wholesale-cigarette-papers-raw-paper-king-size-classic-50-s-pack.jpg?v=1582673758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jersey hookah Wholesale Smoke Shop New Jersey<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            39.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Raw Classic Paper Wholesale 50 Per Box King Size Slim Paper</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607929221258</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.98</s:price>
+      <s:sku>Raw-C-KS-50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607929188490</id>
+    <published>2020-02-25T18:35:54-05:00</published>
+    <updated>2020-02-25T18:35:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/rasta-papers-rolling-papers-size-1-1-4-slow-burning"/>
+    <title>Rasta Papers Rolling Papers Size 1 1/4 Slow Burning</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>Jersey hookah Wholesale Smoke Shop New Jersey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/Rasta_Papers_Rolling_Papers_Size_1_14_Slow_Burning_jar.jpg?v=1582747608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jersey hookah Wholesale Smoke Shop New Jersey<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            0.99 - 29.98
+            <a href="https://jerseywholesaleco.com/products/rasta-papers-rolling-papers-size-1-1-4-slow-burning">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rasta Papers Rolling Papers Size 1 1/4 Slow Burning</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607929188490</id>
+      <title>1 Piece</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>Rasta-paper-1-0.5--1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607929188490</id>
+      <title>Full Jar</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>Rasta-paper-1-0.5--2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607929057418</id>
+    <published>2020-02-25T18:35:51-05:00</published>
+    <updated>2020-02-25T18:35:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/rasta-papers-rolling-papers-size-1-1-2-slow-burning"/>
+    <title>Rasta Papers Rolling Papers Size 1 1/2 Slow Burning</title>
+    <s:type>Rolling Paper</s:type>
+    <s:vendor>Jersey hookah Wholesale Smoke Shop New Jersey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/Rasta_Papers_Rolling_Papers_Size_1_12_Slow_Burning.jpg?v=1582747608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jersey hookah Wholesale Smoke Shop New Jersey<br>
+        <strong>Type: </strong>Rolling Paper<br>
+        <strong>Price: </strong>
+            0.99 - 29.98
+            <a href="https://jerseywholesaleco.com/products/rasta-papers-rolling-papers-size-1-1-2-slow-burning">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rasta Papers Rolling Papers Size 1 1/2 Slow Burning</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607929057418</id>
+      <title>1 Piece</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>Rasta-paper-1-0.5--1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607929057418</id>
+      <title>Full Jar</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>Rasta-paper-1-0.5--2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

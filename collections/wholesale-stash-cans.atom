@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://jerseywholesaleco.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://jerseywholesaleco.com/collections/wholesale-stash-cans.atom"/>
+  <title>Jersey hookah Wholesale</title>
+  <updated>2020-02-25T18:42:47-05:00</updated>
+  <author>
+    <name>Jersey hookah Wholesale</name>
+  </author>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607942230154</id>
+    <published>2020-02-25T18:42:47-05:00</published>
+    <updated>2020-02-25T18:42:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/plastic-bottle-diversion-safe-can"/>
+    <title>Plastic Bottle Diversion Safe Can Stash Bottle Hidden Security container</title>
+    <s:type>Stash Cans</s:type>
+    <s:vendor>Jersey hookah Wholesale Smoke Shop New Jersey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/Stash_Jar_Safe_Can_-_Dasani_Water_Bottle_wholesale_stash_cans.jpg?v=1582674171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jersey hookah Wholesale Smoke Shop New Jersey<br>
+        <strong>Type: </strong>Stash Cans<br>
+        <strong>Price: </strong>
+            9.98 - 19.98
+            <a href="https://jerseywholesaleco.com/products/plastic-bottle-diversion-safe-can">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Plastic Bottle Diversion Safe Can Stash Bottle Hidden Security container</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607942230154</id>
+      <title>Coke Diet</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>coke-stash-bottle</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607942230154</id>
+      <title>Dr Pepper</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>drpepper-stash-bottle</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607942230154</id>
+      <title>Dasani Water 20oz</title>
+      <s:price currency="USD">9.98</s:price>
+      <s:sku>water-stash-bottle</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607942033546</id>
+    <published>2020-02-25T18:42:36-05:00</published>
+    <updated>2020-02-25T18:42:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/water-bottle-diversion-safe-can-stash-bottle-hidden-security-container"/>
+    <title>Water Bottle Diversion Safe Can Stash Bottle Hidden Security container</title>
+    <s:type>Stash Cans</s:type>
+    <s:vendor>Jersey hookah Wholesale Smoke Shop New Jersey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/arizona_stash_can_-_hiding_valuables_-_stash_box_-_hiding_money_-_secret_reserve_-_hidden_container.jpg?v=1582674164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jersey hookah Wholesale Smoke Shop New Jersey<br>
+        <strong>Type: </strong>Stash Cans<br>
+        <strong>Price: </strong>
+            8.98 - 11.98
+            <a href="https://jerseywholesaleco.com/products/water-bottle-diversion-safe-can-stash-bottle-hidden-security-container">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Water Bottle Diversion Safe Can Stash Bottle Hidden Security container</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607942033546</id>
+      <title>Sprite</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Stash-cans--1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607942033546</id>
+      <title>Cocka Cola</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Stash-cans--2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607942033546</id>
+      <title>Sunkist</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Stash-cans--3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607942033546</id>
+      <title>Monster</title>
+      <s:price currency="USD">9.98</s:price>
+      <s:sku>Stash-cans--4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607942033546</id>
+      <title>Arizona</title>
+      <s:price currency="USD">11.98</s:price>
+      <s:sku>Stash-cans--5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607942033546</id>
+      <title>Red Bull</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Stash-cans--6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607942033546</id>
+      <title>Pepsi</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>Stash-cans--7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

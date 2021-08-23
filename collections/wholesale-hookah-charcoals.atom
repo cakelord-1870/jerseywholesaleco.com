@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://jerseywholesaleco.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://jerseywholesaleco.com/collections/wholesale-hookah-charcoals.atom"/>
+  <title>Jersey hookah Wholesale</title>
+  <updated>2020-02-25T17:50:06-05:00</updated>
+  <author>
+    <name>Jersey hookah Wholesale</name>
+  </author>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607844286602</id>
+    <published>2020-02-25T17:50:06-05:00</published>
+    <updated>2020-02-25T17:50:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/coco-nara-hookah-charcoal-all-sizes-wholesale-charcoal"/>
+    <title>Coco Nara Hookah Charcoal All Sizes - Wholesale Charcoal</title>
+    <s:type>Charcoal</s:type>
+    <s:vendor>Coco Nara</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/120_Pieces_Coco_Nara_Charcoal_Natural_Coconut_Hookah_Shisha_Coal_Coconara.jpg?v=1582747608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coco Nara<br>
+        <strong>Type: </strong>Charcoal<br>
+        <strong>Price: </strong>
+            4.00 - 7.00
+            <a href="https://jerseywholesaleco.com/products/coco-nara-hookah-charcoal-all-sizes-wholesale-charcoal">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Coco Nara Hookah Charcoal All Sizes - Wholesale Charcoal </strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607844286602</id>
+      <title>Large</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>Charcoal-coco-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607844286602</id>
+      <title>Medium</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Charcoal-coco-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607844286602</id>
+      <title>Small</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>Charcoal-coco-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607844057226</id>
+    <published>2020-02-25T17:50:02-05:00</published>
+    <updated>2020-02-25T17:50:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/three-kings-charcoal-tablets-hookah-charcoal-all-sizes-wholesale-charcoal"/>
+    <title>Three Kings Charcoal Tablets Hookah Charcoal All Sizes - Wholesale Charcoal</title>
+    <s:type>Charcoal</s:type>
+    <s:vendor>Jersey hookah Wholesale Smoke Shop New Jersey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/three-kings-charcoal-33mm_97a6ee38-0ccd-4c33-8afd-e3ce47379cd0.jpg?v=1582671005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jersey hookah Wholesale Smoke Shop New Jersey<br>
+        <strong>Type: </strong>Charcoal<br>
+        <strong>Price: </strong>
+            12.00 - 14.00
+            <a href="https://jerseywholesaleco.com/products/three-kings-charcoal-tablets-hookah-charcoal-all-sizes-wholesale-charcoal">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Three Kings Charcoal Tablets Hookah Charcoal All Sizes - Wholesale Charcoal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607844057226</id>
+      <title>40mm</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>Charcoal-coco-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607844057226</id>
+      <title>33mm</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>Charcoal-coco-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607843958922</id>
+    <published>2020-02-25T17:49:54-05:00</published>
+    <updated>2020-02-25T17:49:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/starlight-charcoal-tablets-hookah-charcoal-all-sizes-wholesale-charcoal"/>
+    <title>Starlight Charcoal Tablets Hookah Charcoal All Sizes - Wholesale Charcoal</title>
+    <s:type>Charcoal</s:type>
+    <s:vendor>Jersey hookah Wholesale Smoke Shop New Jersey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/starlight-instant-light-tablets-starlight-charcoal_c8ee15e0-db77-494d-804e-2a80682d8426.jpg?v=1582670999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jersey hookah Wholesale Smoke Shop New Jersey<br>
+        <strong>Type: </strong>Charcoal<br>
+        <strong>Price: </strong>
+            6.00 - 8.00
+            <a href="https://jerseywholesaleco.com/products/starlight-charcoal-tablets-hookah-charcoal-all-sizes-wholesale-charcoal">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Starlight Charcoal Tablets Hookah Charcoal All Sizes - Wholesale Charcoal</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607843958922</id>
+      <title>40mm</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>Charcoal-coco-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607843958922</id>
+      <title>33mm</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Charcoal-coco-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

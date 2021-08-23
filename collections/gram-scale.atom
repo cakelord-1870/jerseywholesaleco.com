@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://jerseywholesaleco.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://jerseywholesaleco.com/collections/gram-scale.atom"/>
+  <title>Jersey hookah Wholesale</title>
+  <updated>2020-02-25T18:37:14-05:00</updated>
+  <author>
+    <name>Jersey hookah Wholesale</name>
+  </author>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607932072074</id>
+    <published>2020-02-25T18:37:14-05:00</published>
+    <updated>2020-02-25T18:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/cr-scales-jds-f650-0-1g"/>
+    <title>CR SCALES - JDS F650 0.1G</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/cr-scales-jds-f650-0-1g-WHOLESALE-SMOKE-SHOP.jpg?v=1582747608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h1 class="custom-font product-description-header">CR SCALES - JDS F650 0.1G</h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607932072074</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JDS-F650</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607931973770</id>
+    <published>2020-02-25T18:37:12-05:00</published>
+    <updated>2020-02-25T18:37:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/cr-scales-jds-sm-500-0-1g"/>
+    <title>CR SCALES - JDS SM-500 0.1G</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/cr-scales-jds-sm-500-0-1g-WHOLESALE-SMOKE-SHOP.jpg?v=1582747607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h1 class="custom-font product-description-header">CR SCALES - JDS SM-500 0.1G</h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607931973770</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JDS-SM-500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607931908234</id>
+    <published>2020-02-25T18:37:09-05:00</published>
+    <updated>2020-02-25T18:37:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/cr-scales-jds-m600t"/>
+    <title>CR SCALES - JDS M600T</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/cr-scales-jds-m600t-WHOLESALE-SMOKE-SHOP.png?v=1582673832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h1 class="custom-font product-description-header">CR SCALES - JDS M600T</h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607931908234</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JDS-M600T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607931809930</id>
+    <published>2020-02-25T18:37:08-05:00</published>
+    <updated>2020-02-25T18:37:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/cr-scales-jds-zx-100-0-01g"/>
+    <title>CR SCALES - JDS ZX-100 0.01G</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/cr-scales-jds-zx-100-0-01g-WHOLESALE-SMOKE-SHOP.jpg?v=1582747608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h1 class="custom-font product-description-header">CR SCALES - JDS ZX-100 0.01G</h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607931809930</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JDS-ZX-100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607931711626</id>
+    <published>2020-02-25T18:37:05-05:00</published>
+    <updated>2020-02-25T18:37:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/cr-scales-jds-f1000-0-1g"/>
+    <title>CR SCALES - JDS F1000 0.1G</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/cr-scales-jds-f1000-0-1g-WHOLESALE-SMOKE-SHOP.jpg?v=1582747608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h1 class="custom-font product-description-header">CR SCALES - JDS F1000 0.1G</h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607931711626</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JDS-F1000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607931580554</id>
+    <published>2020-02-25T18:37:03-05:00</published>
+    <updated>2020-02-25T18:37:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/cr-scales-jds-200au-0-01g"/>
+    <title>CR SCALES - JDS 200AU 0.01G</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/cr-scales-jds-200au-0-01g-WHOLESALE-SMOKE-SHOP.jpg?v=1582747608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h1 class="custom-font product-description-header">CR SCALES - JDS 200AU 0.01G</h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607931580554</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JDS-200AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607931449482</id>
+    <published>2020-02-25T18:37:00-05:00</published>
+    <updated>2020-02-25T18:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/cr-scales-jds-da-20-0-001g"/>
+    <title>CR SCALES - JDS DA-20 0.001G</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/cr-scales-jds-da-20-0-001g-WHOLESALE-SMOKE-SHOP.jpg?v=1582747608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h2>CR SCALES - JDS DA-20 0.001G</h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607931449482</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>JDS-DA-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607931383946</id>
+    <published>2020-02-25T18:36:59-05:00</published>
+    <updated>2020-02-25T18:36:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/cr-scales-jds-200b-0-01g"/>
+    <title>CR SCALES - JDS 200B 0.01G</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/cr-scales-jds-200b-0-01g-WHOLESALE-SMOKE-SHOP.jpg?v=1582747608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h2>CR SCALES - JDS 200B 0.01G</h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607931383946</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JDS-200B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607931285642</id>
+    <published>2020-02-25T18:36:57-05:00</published>
+    <updated>2020-02-25T18:36:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/cr-scales-jds-1000dr-0-01g"/>
+    <title>CR SCALES - JDS 1000DR 0.01G</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/cr-scales-jds-1000dr-0-01g-WHOLESALE-SMOKE-SHOP.jpg?v=1582747608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h2>CR SCALES - JDS 1000DR 0.01G</h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607931285642</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>JDS-1000DR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607931252874</id>
+    <published>2020-02-25T18:36:55-05:00</published>
+    <updated>2020-02-25T18:36:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/cr-scales-jds-750b-0-1g"/>
+    <title>CR SCALES - JDS 750B 0.1G</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/cr-scales-jds-750b-0-1g-vape-plus-4783786065991_600x_8a551d8e-25af-4e52-90dd-596ceae57112.jpg?v=1582747608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h2>CR SCALES - JDS 750B 0.1G</h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607931252874</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JDS-750B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607931089034</id>
+    <published>2020-02-25T18:36:54-05:00</published>
+    <updated>2020-02-25T18:36:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/cr-scales-jds-5000-scale-1g"/>
+    <title>CR SCALES - JDS 5000 SCALE 1G</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/cr-scales-jds-5000-scale-1g-wholeslae-smoke-shop.jpg?v=1582747608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h2>CR SCALES - JDS 5000 SCALE 1G</h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607931089034</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>JDS-5000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607931056266</id>
+    <published>2020-02-25T18:36:52-05:00</published>
+    <updated>2020-02-25T18:36:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/cr-scales-jds-750s-0-1g"/>
+    <title>CR SCALES - JDS 750S 0.1G</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/cr-scales-jds-750s-0-1g-vape-plus-4783835119687_150x_6db1c507-b15d-4746-bb9f-2d1a42fb89a2.jpg?v=1582747607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h2>CR SCALES - JDS 750S 0.1G</h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607931056266</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JDS-750S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607930990730</id>
+    <published>2020-02-25T18:36:50-05:00</published>
+    <updated>2020-02-25T18:36:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/cr-scales-jds-1000b-scale-0-1g"/>
+    <title>CR SCALES - JDS 1000B SCALE 0.1G</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/cr-scales-jds-1000b-scale-0-1g-wholesale-smoke-shop.jpg?v=1582747608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h2>CR SCALES - JDS 1000B SCALE 0.1G</h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607930990730</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JDS-1000B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607930859658</id>
+    <published>2020-02-25T18:36:47-05:00</published>
+    <updated>2020-02-25T18:36:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/cr-scales-jds-100b-scale-0-01g"/>
+    <title>CR SCALES - JDS 100B SCALE 0.01G</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/cr-scales-jds-100b-scale-0-01g-wholesale-smoke-shop.jpg?v=1582747608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h2>CR SCALES - JDS 100B SCALE 0.01G</h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607930859658</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JDS-100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607930826890</id>
+    <published>2020-02-25T18:36:46-05:00</published>
+    <updated>2020-02-25T18:36:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/cr-scales-jds-p600"/>
+    <title>CR SCALES - JDS P600</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/cr-scales-jds-p600-wholesale-smoke-shop.jpg?v=1582673807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h1 class="product-name">CR SCALES - JDS P600</h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607930826890</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JDS-P600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607930728586</id>
+    <published>2020-02-25T18:36:44-05:00</published>
+    <updated>2020-02-25T18:36:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/scale-cr-jds-sm-200-0-01g-purple"/>
+    <title>Scale CR JDS SM-200 0.01G Purple</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/5431-900x900.jpg?v=1582673805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h1 class="product-name"><span style="font-size: 15px;">Scale CR JDS SM-200 0.01G Purple </span></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607930728586</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SM-200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607930597514</id>
+    <published>2020-02-25T18:36:42-05:00</published>
+    <updated>2020-02-25T18:36:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/scale-cr-jds-sm-500-0-1g-gray"/>
+    <title>Scale CR JDS SM-500 0.1G Gray</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/5430-730x730.jpg?v=1582673803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<h1 class="product-name">Scale CR JDS SM-500 0.1G Gray</h1>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607930597514</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SM-500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607930531978</id>
+    <published>2020-02-25T18:36:40-05:00</published>
+    <updated>2020-02-25T18:36:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/scale-cr-jds-200-au"/>
+    <title>SCALE CR JDS-200 AU</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/CRS25-730x730.jpg?v=1582673801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<p>SCALE CR JDS-200 AU</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607930531978</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JDS-200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607930499210</id>
+    <published>2020-02-25T18:36:38-05:00</published>
+    <updated>2020-02-25T18:36:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/scale-cr-jds-da-20-0-001g"/>
+    <title>Scale CR JDS-DA-20 0.001G</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/5228-730x730.jpg?v=1582673800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<p>Scale CR JDS-DA-20 0.001G</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607930499210</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>JDS-DA-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607930400906</id>
+    <published>2020-02-25T18:36:35-05:00</published>
+    <updated>2020-02-25T18:36:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/scale-jds-1000-dr-0-1g-purple-with-usb-charging"/>
+    <title>SCALE JDS-1000 DR 0.1G PURPLE WITH USB CHARGING</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/CRS22-730x730.jpg?v=1582673798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 1 CT</li>
+</ul>
+<p>SCALE JDS-1000 DR 0.1G PURPLE WITH USB CHARGING</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607930400906</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>JDS-1000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607930335370</id>
+    <published>2020-02-25T18:36:33-05:00</published>
+    <updated>2020-02-25T18:36:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/scales-cr-jds-600-0-1g"/>
+    <title>Scales CR JDS-600 0.1G</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/127-730x730.jpg?v=1582673795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span>Size : 1 CT<br></span></li>
+<li><span>Durable and compact<span> </span><nobr><a id="PXLINK_1_0_1" class="pxInta" href="https://rcdwholesale.com/index.php?route=product/product&amp;path=330_277_362&amp;product_id=984#">digital</a></nobr><span> </span>pocket scale for easy portability<br></span></li>
+<li><span>Weighs items up to 1000 grams in 0.1 gram increments Easy-to-read,<br></span></li>
+<li><span>Maximum Weight 600 gram<br></span></li>
+<li><span>Back-lit LCD<span> </span><nobr><a id="PXLINK_0_0_0" class="pxInta" href="https://rcdwholesale.com/index.php?route=product/product&amp;path=330_277_362&amp;product_id=984#">display</a></nobr><span> </span>flip-open lid protects the smooth,<br></span></li>
+<li><span>stainless-steel weighing surface </span></li>
+</ul>
+<p> </p>
+<p>Scales CR JDS-600 0.1G</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607930335370</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JDS-600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607930269834</id>
+    <published>2020-02-25T18:36:30-05:00</published>
+    <updated>2020-02-25T18:36:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/scales-cr-jds-j100-0-01g-orange-silver"/>
+    <title>Scales CR JDS-J100 0.01G Orange Silver</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/131-730x730.jpg?v=1582673792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span>Size : 1 CT<br></span></li>
+<li><span>Durable and compact <nobr><a id="PXLINK_1_0_1" class="pxInta" href="https://rcdwholesale.com/index.php?route=product/product&amp;path=330_277_362&amp;product_id=988#">digital</a></nobr> pocket scale for easy portability<br></span></li>
+<li><span>Weighs items up to 1000 grams in 0.01 gram increments Easy-to-read,<br></span></li>
+<li><span>Maximum Weight 100 gram<br></span></li>
+<li><span>Back-lit LCD <nobr><a id="PXLINK_0_0_0" class="pxInta" href="https://rcdwholesale.com/index.php?route=product/product&amp;path=330_277_362&amp;product_id=988#">display</a></nobr> flip-open lid protects the smooth,<br></span></li>
+<li><span>stainless-steel weighing surface </span></li>
+</ul>
+<p><span>Scales CR JDS-J100 0.01G Orange Silver</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607930269834</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JDS-J100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jerseywholesaleco.com/products/4607930171530</id>
+    <published>2020-02-25T18:36:28-05:00</published>
+    <updated>2020-02-25T18:36:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jerseywholesaleco.com/products/scales-pocket-yellow-cr-jds-p100-0-01g"/>
+    <title>Scales Pocket Yellow CR JDS-P100 0.01G</title>
+    <s:type>Scale</s:type>
+    <s:vendor>CR Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0272/9603/9050/products/2047_w-730x730.jpg?v=1582673789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CR Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<ul>
+<li>Size : 1 CT</li>
+<li>Durable and compact digital pocket scale for easy portability</li>
+<li>Weighs items up to 1000 grams in 0.01 gram increments</li>
+<li>Easy-to-read</li>
+<li>Maximum Weight 100 gram</li>
+<li>Back-lit LCD display flip-open lid protects the smooth</li>
+<li>stainless-steel weighing surface</li>
+</ul>
+<p>Scales Pocket Yellow CR JDS-P100 0.01G</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jerseywholesaleco.com/products/4607930171530</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JDS-P100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
